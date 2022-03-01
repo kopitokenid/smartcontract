@@ -1,2 +1,2 @@
-# smartcontract
-The official smart contract of Kopi Token
+# Kopi Token
+The official smart contract of Kopi Token.
